@@ -1,0 +1,3 @@
+[submodule "scrapeRealEstate"]
+	path = scrapeRealEstate
+	url = https://github.com/mailmezorro/scrapeRealEstate
